@@ -12,4 +12,6 @@
 /* #region Partials styles */
 @import url('./partials/header.css');
 @import url('./partials/logo.css');
+@import url('./partials/hero.css');
 /* #endregion */
+
