@@ -1,0 +1,18 @@
+.logo {
+  font-family: var(--font-secondary);
+  color: rgb(var(--cl-accent));
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+/* 1 */
+.header-logo .logo-accent {
+  color: var(--cl-secondary);
+}
+/* 2 */
+.footer-logo .logo-accent {
+  color: var(--cl-light);
+}

@@ -1,0 +1,23 @@
+body {
+  font-family: var(--font-primary);
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+
+  color: rgb(var(--cl-primary));
+  background-color: rgb(var(--cl-accent) / 10%);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+section {
+  padding: 100px 0;
+}
+
+address {
+  font-style: 20px;
+}

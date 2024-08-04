@@ -1,0 +1,13 @@
+:root {
+  --font-primary: Roboto, sans-serif;
+  --font-secondary: Raleway, sans-serif;
+  /* Light slate */
+  --cl-primary: 67 68 85;
+  --cl-secondary: #2e2f42;
+
+  /* IRIS */
+  --cl-accent: 77 90 229;
+
+  --cl-light: #f4f4fd;
+  --cl-dark: 0 0 0;
+}
