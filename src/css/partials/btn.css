@@ -1,0 +1,33 @@
+.btn {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+  border-radius: 4px;
+  min-width: 165px;
+
+  min-height: 40px;
+
+  border: 1px solid transparent;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background-color: #4d5ae5;
+}
+
+.hero-btn {
+  padding: 16px 32px;
+  display: block;
+  margin: 0 auto;
+}
+
+.footer-btn {
+  padding: 8px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+
+.hero-btn .btn-arrow {
+  display: none;
+}
